@@ -1,0 +1,30 @@
+@import url('reset.css');
+
+/* General Demo Style */
+body{
+	background:#e4ebe9 url(../images/pattern.png) repeat top left;
+	color:#000;
+	font-family: 'PT Sans Narrow', Arial, sans-serif;
+	font-size:12px;
+}
+a{
+	color:#000;
+	text-decoration:none;
+}
+.clr{
+	clear:both;
+}
+h1, h5{
+	margin:15px;
+	font-size:44px;
+	color:#000;
+	font-family: 'Rochester', sans-serif;
+	text-shadow:1px 1px 1px #fff;
+	text-align:center;
+}
+h1 span, h5{
+	font-size:20px;
+	display:block;
+	color:#60817a;
+}
+

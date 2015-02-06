@@ -1,0 +1,20 @@
+@import url('reset.css');
+
+/* General Demo Style */
+.clr{
+	clear:both;
+}
+h1, .h5{
+	margin:15px;
+	font-size:44px;
+	color:#000;
+	font-family: 'Rochester', sans-serif;
+	text-shadow:1px 1px 1px #fff;
+	text-align:center;
+}
+h1 span, h5, .npl{
+	font-size:20px;
+	display:block;
+	color:#60817a;
+}
+
