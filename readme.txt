@@ -9,8 +9,7 @@ Requires at least: 4.0
 
 1. Upload `network-latest-posts folder` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. If you want to use the Widget, you can add the Network Latest Posts widget under 'Appearance->Widgets'
-4. If you want to use the Shortcode, go to a page or post then click the NLPosts icon (green button in the TinyMCE editor) or use [nlposts] (that's it, seriously!)
+3. If you want to use the Shortcode, go to a page or post then click the NLPosts icon (green button in the TinyMCE editor) or use [nlposts] (that's it, seriously!)
 
 == Options ==
 
